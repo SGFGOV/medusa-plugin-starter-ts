@@ -16,8 +16,9 @@ subscribers/
 migrations/
 loaders/
 index.*
+src/coverage/
 
-!src/**
+
 
 ./tsconfig.tsbuildinfo
 ./package-lock.json
